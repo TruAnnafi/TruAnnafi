@@ -1,4 +1,5 @@
 ## Hi there 👋
+From: Chicago, IL
 - ✨ Some hobbies: Comics, modeling, minecraft
 - 🔭 I'm currently working on making comic posters for my mom
 - 🌱 I'm currently learning R & Python
